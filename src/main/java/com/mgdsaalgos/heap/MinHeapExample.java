@@ -16,3 +16,12 @@ public class MinHeapExample {
         }
     }
 }
+/*
+Output:
+Min-Heap Elements:
+        3
+        5
+        7
+        10
+        20
+*/

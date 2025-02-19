@@ -18,3 +18,12 @@ public class MaxHeapExample {
         }
     }
 }
+/*
+Output:
+Max-Heap Elements:
+20
+10
+7
+5
+3
+ */
